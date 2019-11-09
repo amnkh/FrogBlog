@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 ## [How to build a blog with Rails 5 and Bootstrap 4](https://www.youtube.com/playlist?list=PLjItgYqIzJ9XuCqSsMbolBjLPd-5pA9xj)
+
+## from [StephenFiser/FrogBlog](https://github.com/StephenFiser/FrogBlog)
